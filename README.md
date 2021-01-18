@@ -1,9 +1,13 @@
-#Demon Git
+## 06016329 Software Development Tools and Environment
 
-This is simple for Git
+## LAB 2
 
-pwd  check path
-mkdir name  - make folder "name"
-git add 
-git commit 
-git marge "bad code"
+StudentID : 61070075
+
+Name : Thanwath Petavibornrasatian
+
+King mongkut's institude of technology ladkrabang
+
+```
+    print("hello world")
+```
