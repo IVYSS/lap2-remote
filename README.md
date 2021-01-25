@@ -2,15 +2,15 @@
 
 ### LAB 2
 
-**StudentID** : 61070075
+- **StudentID** : 61070075
 
-**Name** :  #Thanwath Petavibornrasatian
+- **Name** :  Thanwath Petavibornrasatian
 
 
-> [King mongkut's institude of technology ladkrabang](https://www.kmitl.ac.th)
+> [IT @ KMITL](https://www.it.kmitl.ac.th/th/)
 
 ```
-    print("Hello Ladkrabang")
+    print("hello world , IT @ KMITL")
 ```
 
-
+[![logo](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th/th/)
